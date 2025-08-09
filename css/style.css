@@ -21,6 +21,10 @@ li {
     font-weight: bold;
     color: aliceblue;
 }
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
 .container{
     width: 80%;
     margin: auto;
