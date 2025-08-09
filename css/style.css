@@ -30,3 +30,12 @@ li {
     margin-bottom: 20px;
     border: 1px solid darkslategray;
 }
+footer {
+    background-color: darkcyan;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
